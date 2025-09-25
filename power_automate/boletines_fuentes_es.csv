@@ -1,0 +1,23 @@
+Nombre,URL_RSS,Notas
+BOE,https://www.boe.es/diario_boe/rss.php,Boletín Oficial del Estado
+BOJA,https://www.juntadeandalucia.es/eboja/sumario.do?formato=rss,Boletín Oficial de la Junta de Andalucía
+BOA,https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VERLST&BASE=RSS_LISTA,Boletín Oficial de Aragón
+BOPA,https://sede.asturias.es/rss,Boletín Oficial del Principado de Asturias
+BOIB,https://www.caib.es/pidip2front/rss.do,Boletín Oficial de las Illes Balears
+BOC-Canarias,https://www.gobiernodecanarias.org/boc/boletines/rss.do,Boletín Oficial de Canarias
+BOC-Cantabria,https://boc.cantabria.es/boces/rss,Boletín Oficial de Cantabria
+DOCM,https://docm.castillalamancha.es/rss,Diario Oficial de Castilla-La Mancha
+BOCYL,https://bocyl.jcyl.es/boletines/rss.do,Boletín Oficial de Castilla y León
+DOGC,https://dogc.gencat.cat/es/el-dogc/rss/,Diari Oficial de la Generalitat de Catalunya
+DOGV,https://dogv.gva.es/datos/rss/es,Diari Oficial de la Generalitat Valenciana
+DOE,https://doe.juntaex.es/rss,Diario Oficial de Extremadura
+DOG,https://www.xunta.gal/dog/Publicados/rss.do,Diario Oficial de Galicia
+BOCM,https://www.bocm.es/boletin/rss,Boletín Oficial de la Comunidad de Madrid
+BORM,https://www.borm.es/borm/rss,Boletín Oficial de la Región de Murcia
+BON,https://bon.navarra.es/es/rss,Boletín Oficial de Navarra
+BOR,https://ias1.larioja.org/boletin/rss,Boletín Oficial de La Rioja
+BOPV-EHAA,https://www.euskadi.eus/bopv/rss,Boletín Oficial del País Vasco / Euskal Herriko Agintaritzaren Aldizkaria
+BOCCE,https://www.ceuta.es/ceuta/rss/boletin,Boletín Oficial de la Ciudad de Ceuta
+BOME,https://www.melilla.es/melillaPortal/recursos/rss/boletinOficial.rss,Boletín Oficial de la Ciudad de Melilla
+BOPA-Oviedo,https://sedemovil.asturias.es/rss,Fuente alternativa móvil Principado de Asturias
+BOCAZ,https://www.zaragoza.es/sede/servicio/boletin/rss.xml,Boletín Oficial de la Provincia de Zaragoza (complementario)
